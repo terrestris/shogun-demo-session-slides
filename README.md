@@ -18,5 +18,6 @@ Folien befinden sich in `index.html`.
 3. Zur angezeigten URL, hänge `?print-pdf` an
 4. `Strg-P` => Als PDF speichern => `dist/shogun-demo-session-slides.pdf` auswählen
 5. `node publish.js`
+6. wait then visit: https://terrestris.github.io/shogun-demo-session-slides/
 
 
