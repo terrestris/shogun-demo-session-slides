@@ -17,7 +17,7 @@ Folien befinden sich in `index.html`.
 2. `npm run preview`
 3. Zur angezeigten URL, hänge `?print-pdf` an
 4. `Strg-P` => Als PDF speichern => `dist/shogun-demo-session-slides.pdf` auswählen
-5. `node publish.js`
+5. `npm run deploy`
 6. wait then visit: https://terrestris.github.io/shogun-demo-session-slides/
 
 
